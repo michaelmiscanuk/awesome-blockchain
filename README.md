@@ -938,6 +938,7 @@ Key features:
 ### Keep learning
 
 - [LianXinShe (链新社) - Chinese Blockchain Learning Resources:](https://www.lianxinshe666.com/special/blockchain/) Curated tutorials, guides, and educational content covering DeFi, NFTs, and Web3 basics in Chinese.
+- [Blockchain Basics Cheat Sheet (CheatGrid):](https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet) Free reference tables on consensus mechanisms, cryptography, transaction models, block structure, wallets and keys, smart contracts, scaling solutions and DeFi primitives.
 
 - [Blockchain Revolution:](https://amzn.to/2u20uvf) How the Technology Behind Bitcoin and Other Cryptocurrencies Is Changing the World.
 - [Mastering Bitcoin for Starters:](https://amzn.to/2uc8Z6q) Bitcoin and Cryptocurrency Technologies, Mining, Investing and Trading.
